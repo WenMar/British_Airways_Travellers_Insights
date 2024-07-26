@@ -10,3 +10,7 @@ Overall: 48.4% positive, 9.5% neutral, 42.1% negative
 UK-specific: 56.8% positive, 10.6% neutral, 32.6% negative
 **Word Cloud Analysis:**
 A word cloud was generated for the negative reviews, revealing that the most frequent terms were: "business class," "issues with the seat," "meal," "service," and "customer service."
+![image](https://github.com/user-attachments/assets/043328fd-2c9a-41c2-bd30-9ff9fc246824)
+
+![image](https://github.com/user-attachments/assets/15b10b33-0cb9-4a20-9a78-e03ce10ac9d3)
+
