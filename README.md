@@ -5,7 +5,7 @@ To achieve this, I first web scraped a website with airline reviews (airlinequal
 
  <br> **Average rating:** 4.60/10
  <br> **Review Sentiments:**
-Overall: 48.4% positive, 9.5% neutral, 42.1% negative
+Overall: 48.4% positive, 9.5% neutral, 42.1% negative - 
 UK-specific: 56.8% positive, 10.6% neutral, 32.6% negative
  <br> **Word Cloud Analysis:**
 A word cloud was generated for the negative reviews, revealing that the most frequent terms were: "business class," "issues with the seat," "meal," "service," and "customer service."
